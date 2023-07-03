@@ -1,0 +1,3 @@
+[submodule "devopscourse"]
+	path = devopscourse
+	url = git@github.com:cloudadvocate/devopscourse.git
